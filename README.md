@@ -1,5 +1,5 @@
 
-<p align="center"><img width="100%" src="./header.png" /></p>
+<p align="center"><img width="100%" src="./name.png" /></p>
 
 ### Hi there, I am Ma ZhanHong👋
 
