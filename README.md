@@ -17,7 +17,7 @@
 
 - **QQ** : 2818908400
 - **WeChat** : MZH-99999-9
-- **E-mail** : PoseidonKiss@163.com
+- **E-mail** : Bosaidonio@163.com
 
 ### 🏠 Blog:
 
